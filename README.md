@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @MrLobear
--
-- 🌱 I’m currently learning Python
-
-- 📫 I'm a student currently, my projects are bad and I know that.
-
+- 👋 Hi, I’m Onur Dindar, a student in Ulubatlı Hasan Anatolian Highschool. One day, I hope I'll become a computer engineer.
+- The nickname of mine "Lobear" means nothing. One day it will mean something.
+- Also I am a newbie so I could do mistakes sometimes.
