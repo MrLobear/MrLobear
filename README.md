@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Onur Dindar, a student in Ulubatlı Hasan Anatolian Highschool. One day, I hope I'll become a computer engineer.
-- The nickname of mine "Lobear" means nothing. One day it will mean something.
-- Also I am a newbie so I could do mistakes sometimes.
+- 👋 Hello, I'm Lobear. Due to my preparation for the Turkish University Entrance Exam, there might be a slight delay in putting my thoughts on code. We'll catch up when the time comes.
